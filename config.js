@@ -31,7 +31,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~DB402JSY#m6iPt7tuvJw_cqPlJRfkpSq456anTH4Lvd8p1JWyG8k",
+    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~SVI0GRqJ#II5cDXc2QIR8ivrwzGMNI_DMOcPgOvU4SDEl6jh-5rY",
     CAPTION: process.env.CAPTION || "POWERED BY SILENTLOVER432",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
@@ -51,8 +51,8 @@ module.exports = {
     CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
     AUTO_REACT: process.env.AUTO_REACT || "true",
     HEART_REACT: process.env.HEART_REACT || "true",
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "252702132341",
-    OWNER_NAME: process.env.OWNER_NAME || "J͜͡ 𝔞N𝐊Ȋ̈S͟ *K͎ᕼA͜͡ N̆̈",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "251 96 642 2462",
+    OWNER_NAME: process.env.OWNER_NAME || "𝖦 𝖮 𝖲 𝖳 𝖠 𝖵 𝖮 :(🕴",
     READ_CMD: process.env.READ_CMD || "false",
     BOT_NAME: process.env.BOT_NAME || "➺DARK-SILENCE-MD",
     STATUS_REPLY: process.env.STATUS_REPLY || "",
